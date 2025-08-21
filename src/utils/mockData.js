@@ -1,0 +1,10 @@
+export const initialListings = [
+  { id: "a1", name: "Maple Court", price: 220000, gate: "North Gate", img: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1600&auto=format&fit=crop", details: "Ensuite rooms, 24/7 power, 5min to North Gate." },
+  { id: "a2", name: "Palm Residence", price: 180000, gate: "South Gate", img: "https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=1600&auto=format&fit=crop", details: "Shared rooms, water included, close to shuttle stop." },
+  { id: "a3", name: "Westgate Heights", price: 250000, gate: "West Gate", img: "https://images.unsplash.com/photo-1491884662610-dfcd28f30cf5?q=80&w=1600&auto=format&fit=crop", details: "Loft-style apartments with security and parking." },
+  { id: "a4", name: "Cedar Villas", price: 210000, gate: "North Gate", img: "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1600&auto=format&fit=crop", details: "Quiet block, furnished rooms, study area." },
+  { id: "a5", name: "Lagoon View", price: 155000, gate: "South Gate", img: "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=1600&auto=format&fit=crop", details: "Budget-friendly, good ventilation, onsite caretaker." },
+  { id: "a6", name: "Green Acres", price: 300000, gate: "West Gate", img: "https://images.unsplash.com/photo-1502005229762-cf1b2da7c52f?q=80&w=1600&auto=format&fit=crop", details: "Premium finish, gym access, gated estate." },
+  { id: "a7", name: "Sunrise Mews", price: 190000, gate: "North Gate", img: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1600&auto=format&fit=crop", details: "Cozy studio units, fast Wi‑Fi included." },
+  { id: "a8", name: "Campus Square", price: 230000, gate: "West Gate", img: "https://images.unsplash.com/photo-1515263487990-61b07816b324?q=80&w=1600&auto=format&fit=crop", details: "Modern design, rooftop hangout, 10min walk to lectures." },
+];
